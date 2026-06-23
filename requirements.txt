@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+python-dotenv
+requests
+networkx
+matplotlib
+streamlit
+langchain
+langchain-groq

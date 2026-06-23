@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+simulation_log.csv
+incident_reports.csv
+grid_topology.png
